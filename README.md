@@ -47,14 +47,6 @@ This repository contains solutions to four quantitative research tasks provided 
 - Optimizes classification for risk assessment and lending decisions
 
 
-# Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-
-
 # Usage
 
 Each task has its own directory with relevant scripts and Jupyter notebooks. Navigate to the appropriate folder and run the corresponding notebook to reproduce the results.
